@@ -3,6 +3,7 @@
   Excel-based product dataset project focusing on data cleaning, category validation, typo correction, and handling missing values. 
 
 Description
+
    Product‑Data‑Insights is an Excel‑based project designed to showcase practical data cleaning, validation, and analysis techniques on a structured product dataset. The worksheet includes attributes such as Product ID, Manufacturing Date, Country Code, Product Name, Brand Name, Price, Quantity, Category, and Total Price.
 
 Getting Started
